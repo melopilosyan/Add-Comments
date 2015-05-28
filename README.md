@@ -5,9 +5,9 @@
 Checkout `comment.cpp` to see how it parses text to differ classes, functions and variables.
 
 
-The application was written when I studied Qt so don't be so exacting against :)
 
-*Written in June 2011*
+The application was written when I studied Qt(June 2011) so don't be so exacting against :)
+
 
 ### Authors
 [Meliq Pilosyan](https://github.com/melopilosyan)
