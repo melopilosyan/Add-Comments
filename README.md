@@ -6,7 +6,7 @@ Checkout `comment.cpp` to see how it parses text to differ classes, functions an
 
 
 
-The application was written when I studied Qt(June 2011) so don't be so exacting against :)
+The application was written when I studied Qt(June 2011) so don't be very exacting against :)
 
 
 ### Authors
