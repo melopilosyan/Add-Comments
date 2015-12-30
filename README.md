@@ -11,5 +11,5 @@
 P. S. The application was written when I studied Qt(June 2011) so don't be very exacting against :wink:
 
 
-#### Authors
+#### Author
 [Meliq Pilosyan](https://github.com/melopilosyan)
