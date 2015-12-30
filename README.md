@@ -1,6 +1,6 @@
-## This is a simple text editor with an amazing functionality to add standard comments in C++ header files
+## Add Standard Comments
 
-*Add Comments* is a Qt gui text editor. Nothing special rather than two menu actions: `Add Comments` and `Delete Comments`.  `Add Comments` activates when the C++ header file is opened.
+*Add Comments* is a Qt gui text editor. Nothing special rather than two menu actions: `Add Comments` and `Delete Comments`.  `Add Comments` activates when a C++ header file is opened.
 
 #### Usage
  Download `Add_Comment.zip` from `bin/`, unzip in Unix like OS(Ubuntu is preferable) and run by double clicking.
