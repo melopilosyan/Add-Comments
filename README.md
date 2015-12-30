@@ -3,7 +3,7 @@
 *Add Comments* is a Qt gui text editor. Nothing special rather than two menu actions: `Add Comments` and `Delete Comments`.  `Add Comments` activates when a C++ header file is opened.
 
 #### Usage
- Download `Add_Comment.zip` from `bin/`, unzip in Unix like OS(Ubuntu is preferable) and run by double clicking.
+ Download [bin/Add_Comment.zip](bin/Add_Comment.zip?raw=true), unzip in Unix like OS(Ubuntu is preferable) and run by double clicking.
  Checkout `comment.cpp` to see how it parses text to differ classes, functions and variables.
 
 
